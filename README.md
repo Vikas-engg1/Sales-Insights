@@ -8,3 +8,12 @@
 - By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
   
 ![AIMS grid](https://github.com/user-attachments/assets/5baa4dc2-6c72-4cdf-8b75-d66cc64e2c68)
+
+**Steps Followed in this project:**
+- Performed a High level analysis of data in SQL to get better understanding over the data.
+- Connected the SQL data set to PowerBI.
+- Performed ETL and data cleaning on the imported data.
+- In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
+- Created measure for needs and used them for creating visuals in PowerBi.
+- After the initial report reviewed by the stakeholders, made changes to the report based on the review commends.
+**Key Insights:**
