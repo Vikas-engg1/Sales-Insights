@@ -16,4 +16,8 @@
 - In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
 - Created measure for needs and used them for creating visuals in PowerBi.
 - After the initial report reviewed by the stakeholders, made changes to the report based on the review commends.
+
+**Home Page:**
+![Sales_Home](https://github.com/user-attachments/assets/432112e1-d9d4-45f9-bf91-7174b2b36888)
+
 **Key Insights:**
