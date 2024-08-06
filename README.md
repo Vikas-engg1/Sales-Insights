@@ -6,4 +6,5 @@
 
 **AIMS Grid:**
 - By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
+  
 ![AIMS grid](https://github.com/user-attachments/assets/5baa4dc2-6c72-4cdf-8b75-d66cc64e2c68)
