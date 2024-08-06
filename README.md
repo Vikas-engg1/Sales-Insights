@@ -21,3 +21,7 @@
 ![Sales_Home](https://github.com/user-attachments/assets/432112e1-d9d4-45f9-bf91-7174b2b36888)
 
 **Key Insights:**
+![Key Insights](https://github.com/user-attachments/assets/63369400-9fc3-4c36-aa02-b653d883f35a)
+
+**Profit Analysis:**
+
